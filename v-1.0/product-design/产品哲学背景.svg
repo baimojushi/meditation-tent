@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 项目背景.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="16.0354in"
+		viewBox="0 0 841.89 1154.55" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#c9c9c9;stroke:#262626;stroke-width:1}
+		.st2 {fill:#0c0c0c;font-family:华光报宋二_CNKI;font-size:0.916672em}
+		.st3 {font-size:1em}
+		.st4 {fill:#f2f2f2;stroke:#262626;stroke-width:1}
+		.st5 {marker-end:url(#mrkr4-43);stroke:#595959;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st6 {fill:#595959;fill-opacity:1;stroke:#595959;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st7 {fill:#e2efd9;stroke:#262626;stroke-width:1}
+		.st8 {fill:#c2d3be;stroke:#262626;stroke-width:1}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-43" class="st6" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(277.795,-1012.82)">
+			<title>圆角矩形</title>
+			<desc>“加速与规训社会”下身体技术在第三空间里的反抗</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="141.024" cy="1133.29" width="282.05" height="42.5197"/>
+			<path d="M10.32 1154.55 L271.73 1154.55 A10.3187 10.3187 -180 0 0 282.05 1144.23 L282.05 1122.35 A10.3187 10.3187 -180
+						 0 0 271.73 1112.03 L10.32 1112.03 A10.3187 10.3187 -180 0 0 0 1122.35 L0 1144.23 A10.3187 10.3187 -180 0
+						 0 10.32 1154.55 Z" class="st1"/>
+			<text x="14.52" y="1136.59" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>“加速与规训社会”下身体技术在第三空间里的反抗</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(111.968,-931.492)">
+			<title>圆角矩形.2</title>
+			<desc>罗萨加速社会</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.13467502481353):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.13467502481353):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.13467502481353):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.13467502481353):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="132.52" cy="1133.29" width="265.04" height="42.5197"/>
+			<path d="M9.7 1154.55 L255.34 1154.55 A9.69644 9.69644 -180 0 0 265.04 1144.85 L265.04 1121.73 A9.69644 9.69644 -180
+						 0 0 255.34 1112.03 L9.7 1112.03 A9.69644 9.69644 -180 0 0 -0 1121.73 L0 1144.85 A9.69644 9.69644 -180 0
+						 0 9.7 1154.55 Z" class="st1"/>
+			<text x="94.02" y="1136.59" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>罗萨：加速社会</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(462.756,-931.492)">
+			<title>圆角矩形.3</title>
+			<desc>福柯规训社会 权力希望生产“驯顺而有用”的身体</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.13467502481353):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.13467502481353):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.13467502481353):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.13467502481353):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="132.52" cy="1133.29" width="265.04" height="42.5197"/>
+			<path d="M9.7 1154.55 L255.34 1154.55 A9.69644 9.69644 -180 0 0 265.04 1144.85 L265.04 1121.73 A9.69644 9.69644 -180
+						 0 0 255.34 1112.03 L9.7 1112.03 A9.69644 9.69644 -180 0 0 -0 1121.73 L0 1144.85 A9.69644 9.69644 -180 0
+						 0 9.7 1154.55 Z" class="st1"/>
+			<text x="94.02" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>福柯：规训社会<v:newlineChar/><tspan
+						x="44.52" dy="1.2em" class="st3">权力希望生产</tspan>“驯顺而有用”的身体</text>		</g>
+		<g id="shape6-11" v:mID="6" v:groupContext="shape" transform="translate(111.968,-849.827)">
+			<title>圆角矩形.6</title>
+			<desc>科技/社会/生活提速时间成稀缺资源</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.56" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>科技/社会/生活提速，时间成<tspan
+						x="54.59" dy="1.2em" class="st3">稀缺资源</tspan></text>		</g>
+		<g id="shape7-15" v:mID="7" v:groupContext="shape" transform="translate(286.4,-850.164)">
+			<title>圆角矩形.7</title>
+			<desc>科技/社会/生活提速时间成稀缺资源</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.56" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>科技/社会/生活提速，时间成<tspan
+						x="54.59" dy="1.2em" class="st3">稀缺资源</tspan></text>		</g>
+		<g id="shape8-19" v:mID="8" v:groupContext="shape" transform="translate(400.191,-786.047)">
+			<title>圆角矩形.8</title>
+			<desc>科技/社会/生活提速时间成稀缺资源</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.56" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>科技/社会/生活提速，时间成<tspan
+						x="54.59" dy="1.2em" class="st3">稀缺资源</tspan></text>		</g>
+		<g id="shape9-23" v:mID="9" v:groupContext="shape" transform="translate(574.623,-786.047)">
+			<title>圆角矩形.9</title>
+			<desc>科技/社会/生活提速时间成稀缺资源</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.56" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>科技/社会/生活提速，时间成<tspan
+						x="54.59" dy="1.2em" class="st3">稀缺资源</tspan></text>		</g>
+		<g id="shape10-27" v:mID="10" v:groupContext="shape" transform="translate(276.429,-708.094)">
+			<title>圆角矩形.10</title>
+			<desc>解决方案第三空间+正念冥想</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="141.024" cy="1133.29" width="282.05" height="42.5197"/>
+			<path d="M10.32 1154.55 L271.73 1154.55 A10.3187 10.3187 -180 0 0 282.05 1144.23 L282.05 1122.35 A10.3187 10.3187 -180
+						 0 0 271.73 1112.03 L10.32 1112.03 A10.3187 10.3187 -180 0 0 0 1122.35 L0 1144.23 A10.3187 10.3187 -180 0
+						 0 10.32 1154.55 Z" class="st1"/>
+			<text x="65.87" y="1136.59" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>解决方案：第三空间+正念冥想</text>		</g>
+		<g id="shape19-30" v:mID="19" v:groupContext="shape" transform="translate(249.398,-630.142)">
+			<title>圆角矩形.19</title>
+			<desc>索亚“第三空间”提供身体喘息的物理空间</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.09" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>索亚“第三空间”：提供身体<tspan
+						x="38.09" dy="1.2em" class="st3">喘息的物理空间</tspan></text>		</g>
+		<g id="shape20-34" v:mID="20" v:groupContext="shape" transform="translate(433.65,-630.142)">
+			<title>圆角矩形.20</title>
+			<desc>福柯“自我技术”冥想作为反抗工具</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.09" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>福柯“自我技术”：冥想作为<tspan
+						x="54.59" dy="1.2em" class="st3">反抗工具</tspan></text>		</g>
+		<g id="shape21-38" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(418.819,-1012.82)">
+			<title>动态连接线</title>
+			<path d="M0 1154.55 L0 1167.22 L-174.33 1167.22 L-174.33 1186.32" class="st5"/>
+		</g>
+		<g id="shape22-44" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(418.819,-1012.82)">
+			<title>动态连接线.22</title>
+			<path d="M0 1154.55 L0 1167.22 L176.46 1167.22 L176.46 1186.32" class="st5"/>
+		</g>
+		<g id="shape23-49" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(244.488,-931.492)">
+			<title>动态连接线.23</title>
+			<path d="M0 1154.55 L0 1167.22 L-55.93 1167.22 L-55.93 1186.66" class="st5"/>
+		</g>
+		<g id="shape24-54" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(244.488,-931.492)">
+			<title>动态连接线.24</title>
+			<path d="M0 1154.55 L0 1167.22 L118.5 1167.22 L118.5 1186.32" class="st5"/>
+		</g>
+		<g id="shape25-59" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(595.276,-931.492)">
+			<title>动态连接线.25</title>
+			<path d="M0 1154.55 L0 1167.22 L-118.5 1167.22 L-118.5 1250.44" class="st5"/>
+		</g>
+		<g id="shape26-64" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(595.276,-931.492)">
+			<title>动态连接线.26</title>
+			<path d="M0 1154.55 L0 1167.22 L55.93 1167.22 L55.93 1250.44" class="st5"/>
+		</g>
+		<g id="shape27-69" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(188.555,-849.827)">
+			<title>动态连接线.27</title>
+			<path d="M0 1154.55 L0 1241.09 L228.9 1241.09 L228.9 1246.72" class="st5"/>
+		</g>
+		<g id="shape28-74" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(362.986,-850.164)">
+			<title>动态连接线.28</title>
+			<path d="M0 1154.55 L0 1241.43 L54.47 1241.43 L54.47 1247.06" class="st5"/>
+		</g>
+		<g id="shape29-79" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(476.777,-786.047)">
+			<title>动态连接线.29</title>
+			<path d="M0 1154.55 L0 1177.31 L-59.33 1177.31 L-59.33 1182.94" class="st5"/>
+		</g>
+		<g id="shape30-84" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(651.209,-786.047)">
+			<title>动态连接线.30</title>
+			<path d="M0 1154.55 L0 1177.31 L-233.76 1177.31 L-233.76 1182.94" class="st5"/>
+		</g>
+		<g id="shape31-89" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(417.452,-708.094)">
+			<title>动态连接线.31</title>
+			<path d="M0 1154.55 L0 1167.22 L-91.47 1167.22 L-91.47 1182.94" class="st5"/>
+		</g>
+		<g id="shape32-94" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(417.452,-708.094)">
+			<title>动态连接线.32</title>
+			<path d="M0 1154.55 L0 1167.22 L92.78 1167.22 L92.78 1182.94" class="st5"/>
+		</g>
+		<g id="shape33-99" v:mID="33" v:groupContext="shape" transform="translate(111.968,-525.375)">
+			<title>椭圆形</title>
+			<desc>突破空间想象的边界感知虚空</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.293" cy="1120.65" width="67.02" height="59.3268"/>
+			<path d="M0 1120.65 A38.293 33.901 0 0 1 76.59 1120.65 A38.293 33.901 0 1 1 0 1120.65 Z" class="st7"/>
+			<text x="10.79" y="1110.75" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>突破空间想<tspan
+						x="10.79" dy="1.2em" class="st3">象的边界</tspan>，<tspan x="16.29" dy="1.2em" class="st3">感知虚空</tspan></text>		</g>
+		<g id="shape36-104" v:mID="36" v:groupContext="shape" transform="translate(216.825,-525.375)">
+			<title>椭圆形.36</title>
+			<desc>随时随地重建户外自然体验</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.293" cy="1120.65" width="67.02" height="59.3268"/>
+			<path d="M0 1120.65 A38.293 33.901 0 0 1 76.59 1120.65 A38.293 33.901 0 0 1 0 1120.65 Z" class="st7"/>
+			<text x="10.79" y="1110.75" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>随时随地重<tspan
+						x="10.79" dy="1.2em" class="st3">建户外自然</tspan><tspan x="27.29" dy="1.2em" class="st3">体验</tspan></text>		</g>
+		<g id="shape37-109" v:mID="37" v:groupContext="shape" transform="translate(321.682,-525.375)">
+			<title>椭圆形.37</title>
+			<desc>自我与自然、有序与混沌的光之交响</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.293" cy="1120.65" width="67.02" height="59.3268"/>
+			<path d="M0 1120.65 A38.293 33.901 0 0 1 76.59 1120.65 A38.293 33.901 0 0 1 0 1120.65 Z" class="st7"/>
+			<text x="16.29" y="1104.15" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>自我与自<tspan x="10.79"
+						dy="1.2em" class="st3">然</tspan>、有序与<tspan x="10.79" dy="1.2em" class="st3">混沌的光之</tspan><tspan x="27.29"
+						dy="1.2em" class="st3">交响</tspan></text>		</g>
+		<g id="shape38-115" v:mID="38" v:groupContext="shape" transform="translate(436.535,-525.375)">
+			<title>椭圆形.38</title>
+			<desc>非接触式呼吸心率检测</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.293" cy="1120.65" width="67.02" height="59.3268"/>
+			<path d="M0 1120.65 A38.293 33.901 0 0 1 76.59 1120.65 A38.293 33.901 0 1 1 0 1120.65 Z" class="st7"/>
+			<text x="10.79" y="1117.35" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>非接触式呼<tspan
+						x="10.79" dy="1.2em" class="st3">吸心率检测</tspan></text>		</g>
+		<g id="shape39-119" v:mID="39" v:groupContext="shape" transform="translate(541.392,-525.375)">
+			<title>椭圆形.39</title>
+			<desc>辅助用户放松身体并聚焦于呼吸</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.293" cy="1120.65" width="67.02" height="59.3268"/>
+			<path d="M0 1120.65 A38.293 33.901 0 0 1 76.59 1120.65 A38.293 33.901 0 0 1 0 1120.65 Z" class="st7"/>
+			<text x="10.79" y="1110.75" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>辅助用户放<tspan
+						x="10.79" dy="1.2em" class="st3">松身体并聚</tspan><tspan x="16.29" dy="1.2em" class="st3">焦于呼吸</tspan></text>		</g>
+		<g id="shape40-124" v:mID="40" v:groupContext="shape" transform="translate(646.249,-525.375)">
+			<title>椭圆形.40</title>
+			<desc>对冥想体验进行数据化复盘与分享</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.293" cy="1120.65" width="67.02" height="59.3268"/>
+			<path d="M0 1120.65 A38.293 33.901 0 0 1 76.59 1120.65 A38.293 33.901 0 0 1 0 1120.65 Z" class="st7"/>
+			<text x="10.79" y="1110.75" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>对冥想体验<tspan
+						x="10.79" dy="1.2em" class="st3">进行数据化</tspan><tspan x="10.79" dy="1.2em" class="st3">复盘与分享</tspan></text>		</g>
+		<g id="shape41-129" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(325.984,-630.142)">
+			<title>动态连接线.41</title>
+			<path d="M0 1154.55 L0 1167.22 L-175.72 1167.22 L-175.72 1184.48" class="st5"/>
+		</g>
+		<g id="shape42-134" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(325.984,-630.142)">
+			<title>动态连接线.42</title>
+			<path d="M0 1154.55 L0 1167.22 L-70.87 1167.22 L-70.87 1184.48" class="st5"/>
+		</g>
+		<g id="shape43-139" v:mID="43" v:groupContext="shape" v:layerMember="0" transform="translate(325.984,-630.142)">
+			<title>动态连接线.43</title>
+			<path d="M0 1154.55 L0 1167.22 L33.99 1167.22 L33.99 1184.48" class="st5"/>
+		</g>
+		<g id="shape44-144" v:mID="44" v:groupContext="shape" v:layerMember="0" transform="translate(510.236,-630.142)">
+			<title>动态连接线.44</title>
+			<path d="M0 1154.55 L0 1167.22 L-35.41 1167.22 L-35.41 1184.48" class="st5"/>
+		</g>
+		<g id="shape45-149" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(510.236,-630.142)">
+			<title>动态连接线.45</title>
+			<path d="M0 1154.55 L0 1167.22 L69.45 1167.22 L69.45 1184.48" class="st5"/>
+		</g>
+		<g id="shape46-154" v:mID="46" v:groupContext="shape" v:layerMember="0" transform="translate(510.236,-630.142)">
+			<title>动态连接线.46</title>
+			<path d="M0 1154.55 L0 1167.22 L174.31 1167.22 L174.31 1184.48" class="st5"/>
+		</g>
+		<g id="shape47-159" v:mID="47" v:groupContext="shape" transform="translate(277.087,-452.976)">
+			<title>圆角矩形.47</title>
+			<desc>智能冥想帐篷</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14331726894551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="141.024" cy="1133.29" width="282.05" height="42.5197"/>
+			<path d="M10.32 1154.55 L271.73 1154.55 A10.3187 10.3187 -180 0 0 282.05 1144.23 L282.05 1122.35 A10.3187 10.3187 -180
+						 0 0 271.73 1112.03 L10.32 1112.03 A10.3187 10.3187 -180 0 0 0 1122.35 L0 1144.23 A10.3187 10.3187 -180 0
+						 0 10.32 1154.55 Z" class="st8"/>
+			<text x="108.02" y="1136.59" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>智能冥想帐篷</text>		</g>
+		<g id="shape48-162" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(150.262,-525.375)">
+			<title>动态连接线.48</title>
+			<path d="M0 1154.55 L0 1167.22 L267.85 1167.22 L267.85 1177.39" class="st5"/>
+		</g>
+		<g id="shape49-167" v:mID="49" v:groupContext="shape" v:layerMember="0" transform="translate(255.118,-525.375)">
+			<title>动态连接线.49</title>
+			<path d="M0 1154.55 L0 1167.22 L162.99 1167.22 L162.99 1177.39" class="st5"/>
+		</g>
+		<g id="shape50-172" v:mID="50" v:groupContext="shape" v:layerMember="0" transform="translate(359.975,-525.375)">
+			<title>动态连接线.50</title>
+			<path d="M0 1154.55 L0 1167.22 L58.14 1167.22 L58.14 1177.39" class="st5"/>
+		</g>
+		<g id="shape51-177" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(474.828,-525.375)">
+			<title>动态连接线.51</title>
+			<path d="M0 1154.55 L0 1167.22 L-56.72 1167.22 L-56.72 1177.39" class="st5"/>
+		</g>
+		<g id="shape52-182" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(579.685,-525.375)">
+			<title>动态连接线.52</title>
+			<path d="M0 1154.55 L0 1167.22 L-161.57 1167.22 L-161.57 1177.39" class="st5"/>
+		</g>
+		<g id="shape53-187" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(684.542,-525.375)">
+			<title>动态连接线.53</title>
+			<path d="M0 1154.55 L0 1167.22 L-266.43 1167.22 L-266.43 1177.39" class="st5"/>
+		</g>
+		<g id="shape54-192" v:mID="54" v:groupContext="shape" transform="translate(136.012,-380.578)">
+			<title>圆角矩形.54</title>
+			<desc>开辟抵抗加速的时空暂离规训场域</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.09" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>开辟抵抗加速的时空，暂离规<tspan
+						x="60.09" dy="1.2em" class="st3">训场域</tspan></text>		</g>
+		<g id="shape55-196" v:mID="55" v:groupContext="shape" transform="translate(341.524,-380.578)">
+			<title>圆角矩形.55</title>
+			<desc>恢复感官敏锐修复身心连接</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.09" y="1136.59" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>恢复感官敏锐，修复身心连接</text>		</g>
+		<g id="shape56-199" v:mID="56" v:groupContext="shape" transform="translate(547.036,-380.578)">
+			<title>圆角矩形.56</title>
+			<desc>重塑关系从被动承受者→有反思与选择的主体</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5861" cy="1133.29" width="153.18" height="42.5197"/>
+			<path d="M0 1154.55 L153.17 1154.55 L153.17 1112.03 L0 1112.03 L0 1154.55 Z" class="st4"/>
+			<text x="5.09" y="1129.99" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>重塑关系：从被动承受者→有<tspan
+						x="32.59" dy="1.2em" class="st3">反思与选择的主体</tspan></text>		</g>
+		<g id="shape57-203" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(418.11,-452.976)">
+			<title>动态连接线.57</title>
+			<path d="M0 1154.55 L0 1167.22 L-205.51 1167.22 L-205.51 1177.39" class="st5"/>
+		</g>
+		<g id="shape58-208" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(411.024,-452.976)">
+			<title>动态连接线.58</title>
+			<path d="M7.09 1154.55 L7.09 1177.39" class="st5"/>
+		</g>
+		<g id="shape59-213" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(418.11,-452.976)">
+			<title>动态连接线.59</title>
+			<path d="M0 1154.55 L0 1167.22 L205.51 1167.22 L205.51 1177.39" class="st5"/>
+		</g>
+	</g>
+</svg>
